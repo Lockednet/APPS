@@ -32,7 +32,7 @@
 
 <b> 7- GL TUNEL MOD =</b> <a href="https://github.com/Lockednet/APPS/raw/main/GL_MOD.apk"><b>DOWNLOAD</b></a>
 <br/>
-<img src="https://i.ibb.co/dDdY25V/Screenshot-20221030-195341-GL-TUNNEL-MOD.jpg"470" width="270">
+<img src="https://i.ibb.co/WsFCCzq/Screenshot-20221102-111159-GL-TUNNEL-MOD.jpg"470" width="270">
 <br/><br/>
 
 <b> 8- CONECTA 4G SDK33.apk =</b> <a href="https://github.com/Lockednet/APPS/raw/main/CONECTA4GSDK33.apk"><b>DOWNLOAD</b></a>
